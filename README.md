@@ -1,1 +1,4 @@
-# Simple-Project
+# Trifuerza⚔️
+
+## Un ejercicio practicando en C++ para imprimir figuras, después de imprimir un triángulo fue interesante probar cómo imprimir la Trifuerza✨ Inspirándome en Eternalred05 para que lo vea con orgullo jsjjs💚👾
+
